@@ -81,14 +81,14 @@ export const eventConfig = {
   date: "2025-08-07T15:00:00",
   location: {
     coordinates: "19.8325443267822,75.2516174316406",
-    mapUrl: "https://res.cloudinary.com/dpc5d15ci/image/upload/v1754242960/house_m89hfy.jpg"
+    mapUrl: "https://www.google.com/maps?q=19.8325443267822,75.2516174316406"
   },
   contacts: [
     "9834640088",
     "9370000675"
   ],
   images: {
-    house: "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=1200",
-    pattern: "https://images.pexels.com/photos/4916557/pexels-photo-4916557.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    house: "https://res.cloudinary.com/dpc5d15ci/image/upload/v1754242960/house_m89hfy.jpg",
+    pattern: "https://res.cloudinary.com/dpc5d15ci/image/upload/v1754242960/house_m89hfy.jpg"
   }
 };
