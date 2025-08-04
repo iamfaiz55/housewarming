@@ -8,7 +8,9 @@ export const invitationData = {
       quote: "Indeed, with hardship comes ease. — Quran 94:6",
 note: "Please RSVP by August 5th. Your presence will be deeply appreciated.",
 
-      message: "With immense joy and gratitude to Allah, we invite you to join us as we celebrate our new home with a traditional housewarming ceremony."
+      message: "With immense joy and gratitude to Allah, we invite you to join us as we celebrate our new home with a traditional housewarming ceremony.",
+      houseName: "Bismillah Manzil",
+      fullAddress: "ARFAT MASJID, SALAMPURE NAGER, PUNDERPUR, AURANGABAD"
     },
     eventDetails: {
       title: "Event Details",
@@ -44,7 +46,9 @@ hi: {
     subtitle: "आपका तहे दिल से स्वागत है",
     family: "पठान परिवार",
     greeting: "अस्सलामु अलैकुम व रहमतुल्लाहि व बरकातुह",
-    message: "अल्लाह की रहमत और खुशी के साथ, हम आपको अपने नए घर की इस खुशी के मौके पर बुलाना चाहते हैं।"
+    message: "अल्लाह की रहमत और खुशी के साथ, हम आपको अपने नए घर की इस खुशी के मौके पर बुलाना चाहते हैं।",
+         houseName: "बिस्मिल्लाह मंज़िल",
+      fullAddress: "अराफात मस्जिद, सलामपुरे नगर, पुंडरपुर, औरंगाबाद"
   },
   eventDetails: {
     title: "कार्यक्रम की जानकारी",
