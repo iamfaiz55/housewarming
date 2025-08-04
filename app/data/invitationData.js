@@ -16,7 +16,7 @@ note: "Please RSVP by August 5th. Your presence will be deeply appreciated.",
       title: "Event Details",
       date: "07 August 2025",
       dateArabic: "07-08-2025",
-      time: "3:00 PM to 10:00 PM",
+      time: "3:00 PM to 7:00 PM",
       location: "Our New Home",
       address: "Click below to view location on Google Maps"
     },
@@ -54,7 +54,7 @@ hi: {
     title: "कार्यक्रम की जानकारी",
     date: "07 अगस्त 2025",
     dateArabic: "07-08-2025",  
-    time: "दोपहर 3:00 बजे से रात 10:00 बजे तक",
+    time: "दोपहर 3:00 बजे से रात 7:00 बजे तक",
     location: "हमारा नया घर",
     address: "लोकेशन देखने के लिए नीचे क्लिक करें"
   },
